@@ -1,0 +1,61 @@
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+
+# Maven files
+pom.xml.tag
+pom.xml~
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Log files
+*.log
+
+# IntelliJ IDEA log files
+idea.log
+idea.log~
+
+# OS and browser files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js files
+node_modules/
+npm-debug.log
+
+# Ruby files
+.ruby-version
+ Gemfile.lock
+.bundle
+vendor/bundle/
+
+# Rails files
+log/
+tmp/
+db/*.sql
+db/*.sqlite3
+coverage/
+
+# Python files
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Django files
+*.log
+local_settings.py
+
+# Other files
+*.swp
+*.swo
+*.kite
+*.orig
+*.rej
+*.tmp
